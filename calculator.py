@@ -1,5 +1,5 @@
 print("Welcome to my calulator")
-num1 = float(input( "Enter your first number : " ))
+num1 = float(input( "Enter your 1st number : " ))
 num2 = float(input ( "Enter your second number : " ))
 operator = input ( "Choose + - * / " )
 
